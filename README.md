@@ -1,3 +1,12 @@
+# ES Module fork
+- Install using `npm install Mtillmann/DeltaE --save`   
+- Import using regular import `import DeltaE from "delta-e";`    
+- Usage stays the same as described below.    
+- Browser version was not touched
+- no business logic was touched
+
+---
+
 # DeltaE - Quantify Color Difference
 
 Check out the following GitHub Pages respository for information on this library.

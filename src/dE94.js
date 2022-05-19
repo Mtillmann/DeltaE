@@ -121,4 +121,4 @@ dE94.prototype.calculateB = function(x1, x2) {
     return hab / sh;
 };
 
-module.exports = dE94;
+export default dE94;

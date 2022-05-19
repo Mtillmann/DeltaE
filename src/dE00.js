@@ -310,4 +310,4 @@ dE00.prototype.degreesToRadians = function(degrees) {
     return degrees * (Math.PI / 180);
 };
 
-module.exports = dE00;
+export default dE00;
